@@ -55,8 +55,8 @@ window.WEDDING_DATA = {
     "heroVideo": "./media/hero.mp4",
     "heroPoster": "./media/hero-poster.webp",
     "music": "./media/music.mp3",
-    "musicTitle": "Jag Ghoomeya (Female Version)",
-    "musicArtist": "Neha Bhasin · Vishal & Shekhar",
-    "musicSource": "https://youtu.be/wJlSp67uZYU?si=veTHsmPZVkf1zXZC"
+    "musicTitle": "Jag Ghoomeya (Flute Version)",
+    "musicArtist": "Vijay Tambe · Instrumental",
+    "musicSource": "https://youtu.be/C-0yN5hYRJI?si=ZGo3_tGvc5GWsZPJ"
   }
 };
