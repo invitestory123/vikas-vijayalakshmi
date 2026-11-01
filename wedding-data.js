@@ -6,7 +6,7 @@ window.WEDDING_DATA = {
     "first": "Vikas",
     "second": "Vijaylaxmi",
     "groomParents": "Son of Mrs Chander & Mr Sham Sunder",
-    "brideParents": "",
+    "brideParents": "Daughter of Smt Sheela Devi & Late Sh. Jai Ram",
     "heroNote": "Together with our families",
     "subtitle": "Beginning our forever"
   },
@@ -46,23 +46,17 @@ window.WEDDING_DATA = {
     "note": "We look forward to celebrating with you."
   },
   "details": {
-    "dressCode": "Traditional / Festive attire",
     "giftPreference": "Your presence and blessings are our greatest gift."
   },
-  // Add the host's email address to enable the RSVP button.
-  "rsvp": {
-    "email": "",
-    "heading": "The pleasure of your company",
-    "note": "Your blessings and presence will make our celebration truly complete.",
-    "deadline": ""
-  },
+  "rsvp": null,
   "media": {
     "openingVideo": "./media/opening.mp4",
     "openingPoster": "./media/opening-poster.webp",
     "heroVideo": "./media/hero.mp4",
     "heroPoster": "./media/hero-poster.webp",
     "music": "./media/music.mp3",
-    "musicTitle": "Dreams Become Real",
-    "musicSource": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027"
+    "musicTitle": "Jag Ghoomeya (Female Version)",
+    "musicArtist": "Neha Bhasin · Vishal & Shekhar",
+    "musicSource": "https://youtu.be/wJlSp67uZYU?si=veTHsmPZVkf1zXZC"
   }
 };
